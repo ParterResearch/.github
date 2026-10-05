@@ -1,12 +1,7 @@
-## Hi there 👋
+<p align="center"><a href="https://parter.com.br" target="_blank"><img src="/img/pr_athenas.png" width="300"></a></p>
 
-<!--
+<p align="center"><strong>Research. Build. Connect. Move.</strong></p>
 
-**Here are some ideas to get you started:**
+**Parter Research** is the technology and reserach initiative or **Parter+TAG Comex**. We build software, automation, AI and data solutions for the _foreign trade and logistics ecosystem_, turning problems from our daily operations into tools and products that can be used at scale.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
